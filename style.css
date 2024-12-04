@@ -1,0 +1,21 @@
+.hover-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; 
+}
+#response-image {
+    border-radius: 10px;
+    margin-top: 2rem;
+    box-shadow: 0 0 15px rgba(26, 22, 22, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+.btn-danger {
+    border-radius: 50%;
+    margin-top: 2rem;
+    background-color: aqua;
+}
