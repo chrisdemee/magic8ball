@@ -32,8 +32,9 @@ function shakeMagic8Ball(){
         eightBall = 'Signs point to yes';
         break;
     }
+    
     console.log(eightBall)
-    document.getElementById('response-text').innerText = `${userName} has asked the Magic 8 Ball ${userQuestion}. The wise and wonderous 8 Ball has replied ${eightBall}`
+    document.getElementById('response-text').innerText = `${userName} has asked the Magic 8 Ball ${userQuestion}. The awesome and majestic 8 Ball has replied ${eightBall}`
     
 }
 
